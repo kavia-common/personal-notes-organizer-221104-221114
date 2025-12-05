@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '.kavia.ai',
+    '.api.kavia.app',
     'localhost',
     '127.0.0.1',
     'testserver',
